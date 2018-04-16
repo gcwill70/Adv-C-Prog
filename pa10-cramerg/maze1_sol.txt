@@ -1,0 +1,6 @@
+Path  0: e
+Path  1: n
+Path  2: ww
+Path  3: nw
+Path  4: eww
+Path  5: ewe
